@@ -10,7 +10,7 @@
 .data-container{
   transform: translateX(10%);
 }
-.button{
+.button-link{
   position: absolute;
   bottom: 10px;
   left: 10%;

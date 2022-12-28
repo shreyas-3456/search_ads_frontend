@@ -24,7 +24,7 @@ const DataContainer = () => {
 								{item.description && <p className="my-5">{item.description}</p>}
 								<Card.Link
 									href={`https:www.${item.company.url}`}
-									className="btn btn-secondary button"
+									className="btn btn-secondary button-link"
 									target="_blank"
 								>
 									{item.cta}
